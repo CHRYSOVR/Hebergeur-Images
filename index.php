@@ -27,7 +27,7 @@ if (isset($_FILES['image']) && $_FILES['image']['error'] == 0) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hebergeur D'images gratuit</title>
+    <title>Hebergeur D'images gratuit En php</title>
 </head>
 <style type="text/css">
     html,
